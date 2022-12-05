@@ -1,0 +1,14 @@
+eclipse.preferences.version =1
+org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode = ativado
+org.eclipse.jdt.core.compiler.codegen.targetPlatform =17
+org.eclipse.jdt.core.compiler.codegen.unusedLocal =preservar
+org.eclipse.jdt.core.compiler.compliance =17
+org.eclipse.jdt.core.compiler.debug.lineNumber = gerar
+org.eclipse.jdt.core.compiler.debug.localVariable =gerar
+org.eclipse.jdt.core.compiler.debug.sourceFile =gerar
+org.eclipse.jdt.core.compiler.problem.assertIdentifier =erro
+org.eclipse.jdt.core.compiler.problem.enablePreviewFeatures =desativado
+org.eclipse.jdt.core.compiler.problem.enumIdentifier =erro
+org.eclipse.jdt.core.compiler.problem.reportPreviewFeatures =aviso
+org.eclipse.jdt.core.compiler.release =ativado
+org.eclipse.jdt.core.compiler.source =17
